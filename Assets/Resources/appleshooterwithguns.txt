@@ -1,0 +1,31 @@
+<!-- Match3 1 Games OurMenuAd_Chartboost_Admob_popup  use  menuary 1, ingameary 2, levelcompleteary 3, levelfailary 4, Store or Selection pages 5 -->
+<gameconfigs>
+<mpad need="true" img1="https://s3.amazonaws.com/Tap-FreeGames/ads/main_portrait.jpg" img2="https://s3.amazonaws.com/Tap-FreeGames/ads/main.jpg" linkto="market://details?id=com.igames.appleshootergame" linktomgto="" tryme="" trymeios="" trymeImage=""/>
+
+<exitpopupimg img="https://s3.amazonaws.com/Tap-FreeGames/img/smallexit.jpg" linkto="market://details?id=com.freegames.indiantrainsimulator"/>
+
+<promo need="false" popupimg="" linkto=""/>
+
+<mg1 linkto="https://s3.amazonaws.com/Tap-FreeGames/index_all.html" linktowithclose="https://s3.amazonaws.com/Tap-FreeGames/index_all.html" exitlinkto="https://s3.amazonaws.com/Tap-FreeGames/exit_all.html"/>
+
+<mg2 linkto="https://s3.amazonaws.com/Tap-FreeGames/index.html" linktowithclose="https://s3.amazonaws.com/Tap-FreeGames/index.html" exitlinkto="https://s3.amazonaws.com/Tap-FreeGames/exit.html"/>
+
+<publisher name="Tap+Free+Games"/>
+
+<g18 adtoaddelay="90" st="0_0_34_0"/>
+<gamepngs FolderLocation="https://s3.amazonaws.com/Tap-FreeGames/img/"/>
+
+<skip On="1" levelxmlversion="1.1" gameversion="1.1" isfullscreen="true" lcaddelay="1.5" lfaddelay="1.5" fbpushlink="http://timuz.com/mobilegames/pushwoosh_pastryu5.php?histoken="/>
+
+<shareLink urlFB="http://upon.in/appleshootingwithguns/fb"/>
+
+<!-- This XML is Only For TAP FREE game-->
+<DownLoadFreegame FreegameImg="https://s3.amazonaws.com/Tap-FreeGames/img/indiantrainsimulator.jpg" FreegameLink="market://details?id=com.freegames.indiantrainsimulator"/>
+
+
+<moregamepngs FolderLocation="https://s3.amazonaws.com/Tap-FreeGames/img/"/>
+
+<moregame packageID="com.freegames.indiantrainsimulator"/>
+<ratepopup levelNums="4_6_11_16_21_26_31_34" ratemsg="Love Bus Simulator 2017! &#10; Please rate us!" ratecoins="0"/>
+
+</gameconfigs>

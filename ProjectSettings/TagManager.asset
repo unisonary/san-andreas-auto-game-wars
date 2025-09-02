@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Climbable
+  - Weapon
+  - Bone
+  - Grass
+  - HandleTrigger
+  - Vehicle
+  - Street
+  - Water
+  - ways
+  - Human
+  - Police
+  - watersurface
+  - complete
+  - fail
+  - Obstacle
+  - TowerLight
+  - TrafficLight
+  - Walls
+  - streamer
+  - boat
+  - HandleTriggerRight
+  - Ground
+  - breath
+  - streetlight
+  - Enemy
+  - CoinsSet
+  - Coin
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 9layer
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - Helicopter
+  - map_layer
+  - small_obj
+  - medium_obj
+  - big_obj
+  - addsmall
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

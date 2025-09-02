@@ -1,0 +1,41 @@
+using UnityEngine;
+using UnityEngine.UI;
+
+public class GetPrice : MonoBehaviour
+{
+	public bool IsNonConsumable;
+
+	public int Index;
+
+	private void OnEnable()
+	{
+		if (IsNonConsumable)
+		{
+			if (PlayerPrefs.HasKey("nonConsumableProducts_" + Index))
+			{
+				base.gameObject.GetComponent<Text>().text = PlayerPrefs.GetString("nonConsumableProducts_" + Index, "BUY");
+			}
+		}
+		else if (PlayerPrefs.HasKey("consumableProducts_" + Index))
+		{
+			base.gameObject.GetComponent<Text>().text = PlayerPrefs.GetString("consumableProducts_" + Index, "BUY");
+		}
+	}
+}
+
+
+//This source code is originally bought from www.codebuysell.com
+// Visit www.codebuysell.com
+//
+//Contact us at:
+//
+//Email : admin@codebuysell.com
+//Whatsapp: +15055090428
+//Telegram: t.me/CodeBuySellLLC
+//Facebook: https://www.facebook.com/CodeBuySellLLC/
+//Skype: https://join.skype.com/invite/wKcWMjVYDNvk
+//Twitter: https://x.com/CodeBuySellLLC
+//Instagram: https://www.instagram.com/codebuysell/
+//Youtube: http://www.youtube.com/@CodeBuySell
+//LinkedIn: www.linkedin.com/in/CodeBuySellLLC
+//Pinterest: https://www.pinterest.com/CodeBuySell/

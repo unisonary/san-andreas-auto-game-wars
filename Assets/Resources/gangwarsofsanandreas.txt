@@ -1,0 +1,24 @@
+<!--   AdIn contains the deails of Ad in pages
+1- ShowMenuAd 2-LevelSelection 3-Upgrade 4-LevelComplete 5-PreLevelFail 6-LevelFail
+RotationType 1->Admob 20>Unity
+**Dont Give Empty values-->
+<GameData>
+<Version levelxmlversion="1.0" gameversion="1.0"/>
+<Desc RateDesc="How Many stars you want to give ? " ShareDesc="Share And Get 200 Coins"/>
+<PopUpLvls RateInLvls="100" ShareInLvls="100"/>
+<Coins RateCoins="0" ShareCoins="200"/>
+<DiscountPop Menu="100" UPLS="100"/>
+<Addelay Addelay="60" lcaddelay="1.0" lfaddelay="1" prelfdelay="1" upldelay="1"/>
+<AdType RotationType="1_2_3" RotationRewardType="1_2_3"/>
+<AdIn pages="0_0_0_4_0_6"/>
+<shareLink urlFB="https://play.google.com/store/apps/details?id=com.zippygames.gangwarsofsanandreas"/>
+<Notification onesignal="15d12a1b-aad4-48a1-a746-81de237e6943_1066152131762"/>
+<!--<moregames 
+mgImgLink1="https://s3-us-west-2.amazonaws.com/girlgames/menu/megaramptronbikes_P1.jpg" mgLinkto1="market://details?id=com.wishgames.megaramptronbikes"
+mgImgLink2="https://s3-us-west-2.amazonaws.com/girlgames/menu/megaramptronbikes_P1.jpg" mgLinkto2="market://details?id=com.wishgames.megaramptronbikes"
+mgImgLink3="https://s3-us-west-2.amazonaws.com/girlgames/menu/bikeracer2018_P1.jpg" mgLinkto3="market://details?id=com.milliongames.bikeracer2018"
+mgImgLink4="https://s3-us-west-2.amazonaws.com/girlgames/menu/soccerhit2018_P1.jpg" mgLinkto4="market://details?id=com.gladgames.soccerhit2018"
+mgImgLink5="https://s3-us-west-2.amazonaws.com/girlgames/menu/dinosaurhunter2018_P1.jpg" mgLinkto5="market://details?id=com.timuzgames.dinosaurhunter2018"
+/>-->
+
+</GameData>

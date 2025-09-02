@@ -1,0 +1,19 @@
+<!--Born biker Top user created levels -->
+<EditorLevels>
+<lv1 lvlcode="682717#1" />
+<lv2 lvlcode="753544#1" />
+<lv3 lvlcode="753544#2" />
+<lv4 lvlcode="746126#1" />
+<lv5 lvlcode="746126#2" />
+<lv6 lvlcode="746126#3" />
+<lv7 lvlcode="746126#4" />
+<lv8 lvlcode="746126#6" />
+<lv9 lvlcode="746126#7" />
+<lv10 lvlcode="746126#8" />
+<lv11 lvlcode="746126#9" />
+<lv12 lvlcode="746126#10" />
+<lv13 lvlcode="787871#2" />
+<lv14 lvlcode="787871#3" />
+<lv15 lvlcode="787871#4" />
+
+</EditorLevels>
